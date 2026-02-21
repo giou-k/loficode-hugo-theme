@@ -1,5 +1,7 @@
 # LofiCode Hugo Theme
 
+Built by [@meimakes](https://x.com/meimakes)
+
 A cozy, lo-fi inspired Hugo theme perfect for developers and creatives who want to create a warm, inviting blog with a retro aesthetic and modern functionality.
 
 ![LofiCode Theme Screenshot](https://raw.githubusercontent.com/raisingpixels/loficode-hugo-theme/master/images/screenshot.png)
