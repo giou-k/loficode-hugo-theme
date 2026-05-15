@@ -14,15 +14,7 @@
       return savedTheme;
     }
 
-    // Use system preference if no saved theme
-    if (
-      window.matchMedia &&
-      window.matchMedia("(prefers-color-scheme: dark)").matches
-    ) {
-      return "dark";
-    }
-
-    return "light";
+    return "dark";
   }
 
   // Set initial theme
